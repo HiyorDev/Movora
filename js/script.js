@@ -2,7 +2,7 @@
 // MOVORA — auth screen logic
 
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://movora.onrender.com";
 
 const POSTER_COUNT = 30;
 const posterWall = document.getElementById("posterWall");
